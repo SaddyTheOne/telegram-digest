@@ -1,0 +1,4 @@
+telethon
+python-dotenv
+anthropic
+python-telegram-bot
